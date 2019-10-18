@@ -1,0 +1,8 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-r": "basic-java-compile-nix:run",
+    "ctrl-alt-s": "basic-java-compile-nix:show",
+    "ctrl-alt-x": "basic-java-compile-nix:stop",
+    "ctrl-alt-m": "basic-java-compile-nix:hide"
+  }
+}

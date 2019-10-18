@@ -6,21 +6,21 @@
         "submenu": [
           {
             "label": "Run File",
-            "command": "basic-java-compile:run"
+            "command": "basic-java-compile-nix:run"
           },
 
           {
             "label": "Show Console",
-            "command": "basic-java-compile:show"
+            "command": "basic-java-compile-nix:show"
           },
 
           {
             "label": "Stop",
-            "command": "basic-java-compile:stop"
+            "command": "basic-java-compile-nix:stop"
           },
           {
             "label": "Hide Console",
-            "command": "basic-java-compile:hide"
+            "command": "basic-java-compile-nix:hide"
           }
         ]
       }
@@ -35,21 +35,21 @@
           "submenu": [
             {
               "label": "Run File",
-              "command": "basic-java-compile:run"
+              "command": "basic-java-compile-nix:run"
             },
 
             {
               "label": "Show Console",
-              "command": "basic-java-compile:show"
+              "command": "basic-java-compile-nix:show"
             },
 
             {
               "label": "Stop",
-              "command": "basic-java-compile:stop"
+              "command": "basic-java-compile-nix:stop"
             },
             {
               "label": "Hide Console",
-              "command": "basic-java-compile:hide"
+              "command": "basic-java-compile-nix:hide"
             }
           ]
         }
