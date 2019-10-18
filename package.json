@@ -1,7 +1,7 @@
 {
   "name": "basic-java-compile-nix",
   "main": "./lib/basic-java-compile-nix",
-  "version": "0.2.2",
+  "version": "1.0.0",
   "description": "Run java files that work with the scanner in a command prompt",
   "author": "badwolfgr",
   "repository": "https://github.com/badwolfgr/basic-java-compile-nix.git",
